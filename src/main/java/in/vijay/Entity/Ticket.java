@@ -19,6 +19,10 @@ public class Ticket {
 	private String phno;
 	
 	private String gender;
+
+	private String email;
+
+	
 	
 	@Column(name="from_add")
 	private String from;
